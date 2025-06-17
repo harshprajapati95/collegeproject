@@ -1,2 +1,2 @@
 # collegeproject
-vi sem project 
+v sem project 
